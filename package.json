@@ -1,5 +1,5 @@
 {
-  "name": "vue_coffee",
+  "name": "vue_yx_qc",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -10,12 +10,16 @@
   "dependencies": {
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
-    "element-ui": "^2.4.5",
+    "echarts": "^5.2.2",
+    "element-ui": "^2.15.6",
     "less": "^4.1.0",
     "less-loader": "^7.3.0",
     "nprogress": "^0.2.0",
+    "videojs-flash": "^2.2.1",
     "vue": "^2.6.11",
-    "vue-router": "^3.2.0"
+    "vue-router": "^3.2.0",
+    "vue-video-player": "^5.0.2",
+    "xlsx": "^0.17.4"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
